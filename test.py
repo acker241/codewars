@@ -6,7 +6,7 @@ def Mult6(NumToMult):
         return NumToMult3*3
     return Mult2(Mult3(NumToMult))
 
-teststring = 'Francisco'
+teststring = 'Teste123'
 stringc = 4
 print(teststring[0:stringc])
 print(teststring[stringc:len(teststring)])
